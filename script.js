@@ -26,7 +26,7 @@ generatebtn.onclick=function qrgenerator(){
     }
 setTimeout(() =>{
         if(qrinput.value==="bhargav"){
-        window.location="https://bhargav-pasupuleti23.github.io/bhargav/";
+        window.location="https://bhargavx23.github.io/bhargav/";
     }
 },5000);
 
